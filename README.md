@@ -1,1 +1,2 @@
-# workshop_test
+# README
+## Description of the project
